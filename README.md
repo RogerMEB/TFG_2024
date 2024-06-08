@@ -39,7 +39,7 @@ The steps and techniques include:
 The data used in this project was gathered from a Pyramid App activity provided by the TIDE research group from Universitat Pompeu Fabra. 
 For the privacy of the students the original data files are not provided.
 
-##Usage
+## Usage
 
 Running the file main.py executes a sequence of functions which executes the feature extraction, the Louvain classification and displays the results.
 Each function can also be executed and tested individually.(Or other calls added to the main.py)
