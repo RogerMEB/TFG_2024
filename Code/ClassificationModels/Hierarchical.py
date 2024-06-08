@@ -88,4 +88,4 @@ G.add_edges_from(group['similarity'])
 # Apply Hierarchical classification
 partition, Z = Hierarchical_classification(group, method='ward', num_clusters=2)
 Plot_Hierarchical_clusters(G, partition)
-Plot_dendrogram(Z)
+Plot_dendrogram(Z)"""
