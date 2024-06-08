@@ -41,7 +41,7 @@ For the privacy of the students the original data files are not provided.
 
 ## Usage
 
-Running the file main.py executes a sequence of functions which executes the feature extraction, the Louvain classification and displays the results.
+Running the file main.py executes a sequence of functions: the feature extraction, the Louvain classification and the display of the results.
 Each function can also be executed and tested individually.(Or other calls added to the main.py)
 
 ## Libraries Used
